@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lFdbUaLJxsAc36OttyLkf1DPCUHgNb+ZYgCO4ed3kX3oy/tpzWCu0T8Jb0HRG5YoQV91I5r+Q+UxFkW7XW+fKA==",
+  "dgSpecHash": "qt3XsSYVOAd3/tEnVqLcJKS8x7LY27W1CI/P38S85FCGvOZu1s9+78BVCGXxut+1DrD0Q1sDeY+fibYXWaTj8g==",
   "success": true,
   "projectFilePath": "D:\\Hadi Documents\\Projects\\Hadflix\\HadflixWeb\\HadflixWeb.csproj",
   "expectedPackageFiles": [
@@ -11,6 +11,8 @@
     "C:\\Users\\ASUS\\.nuget\\packages\\messagepack.annotations\\2.1.152\\messagepack.annotations.2.1.152.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\messagepackanalyzer\\2.1.152\\messagepackanalyzer.2.1.152.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.0\\microsoft.aspnetcore.mvc.razor.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\6.0.0\\microsoft.aspnetcore.mvc.razor.runtimecompilation.6.0.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.0\\microsoft.aspnetcore.razor.language.6.0.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.razor.runtime\\2.2.0\\microsoft.aspnetcore.razor.runtime.2.2.0.nupkg.sha512",

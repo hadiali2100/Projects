@@ -11,12 +11,24 @@ build_property.RootNamespace = HadflixWeb
 build_property.ProjectDir = D:\Hadi Documents\Projects\Hadflix\HadflixWeb\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = D:\Hadi Documents\Projects\Hadflix\HadflixWeb
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Hadi Documents/Projects/Hadflix/HadflixWeb/Views/Category/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hadi Documents/Projects/Hadflix/HadflixWeb/Views/Category/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Hadi Documents/Projects/Hadflix/HadflixWeb/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hadi Documents/Projects/Hadflix/HadflixWeb/Views/Category/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Hadi Documents/Projects/Hadflix/HadflixWeb/Views/Home/Index.cshtml]
